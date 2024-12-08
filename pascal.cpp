@@ -15,7 +15,7 @@ int main()
 		{
 			cout<<" ";
 		}
-		for(auto i:v1)
+		for(auto i:v1) #need an alignment fix for multi-digit numbers
 		{
 			cout<<i<<" ";
 		}
